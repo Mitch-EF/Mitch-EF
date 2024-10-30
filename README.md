@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,
 -  and after this id like to move to a low level language but I still havent decided on which one yet
 - 💞️ I’m looking to collaborate on ... nothing until I get better at coding 
-- 📫 How to reach me ... twitter
+
 
 <!---
 Mitch-EF/Mitch-EF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
